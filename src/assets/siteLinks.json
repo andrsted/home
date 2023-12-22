@@ -1,6 +1,6 @@
 [
   {
-    "icon": "Chat",
+    "icon": "Rocketchat",
     "name": "画说相伴AI主站",
     "link": "https://chat.gptwecan.com/"
   },
@@ -10,12 +10,12 @@
     "link": "https://shop.gptwecan.com/"
   },
   {
-    "icon": "Chat",
+    "icon": "Rocketchat",
     "name": "画说相伴镜像站一",
     "link": "https://chat.gptdog.nl/"
   },
   {
-    "icon": "Chat",
+    "icon": "Rocketchat",
     "name": "画说相伴镜像站二",
     "link": "https://chat.gptwecan.coms.hk/"
   }
