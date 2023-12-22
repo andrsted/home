@@ -1,37 +1,22 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Chat",
+    "name": "画说相伴AI主站",
+    "link": "https://chat.gptwecan.com/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "ShoppingCart",
+    "name": "plus共享账号",
+    "link": "https://shop.gptwecan.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Chat",
+    "name": "画说相伴镜像站一",
+    "link": "https://chat.gptdog.nl/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Chat",
+    "name": "画说相伴镜像站二",
+    "link": "https://chat.gptwecan.coms.hk/"
   }
 ]
