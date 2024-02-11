@@ -1,7 +1,7 @@
 [
   {
     "icon": "Rocketchat",
-    "name": "画说相伴AI主站",
+    "name": "AI站1-画说相伴",
     "link": "https://chat.gptwecan.com/"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "icon": "Rocketchat",
-    "name": "画说相伴镜像站",
+    "name": "AI站2-画谈创意坊",
     "link": "https://chat.gptdog.nl/"
   },
     {
@@ -23,10 +23,5 @@
     "icon": "Download",
     "name": "客户端下载",
     "link": "https://pan.gptwecan.com/s/WoCN/"
-  },
-    {
-    "icon": "Rocketchat",
-    "name": "画说相伴分站",
-    "link": "https://chat2.gptwecan.com/"
   }
 ]
